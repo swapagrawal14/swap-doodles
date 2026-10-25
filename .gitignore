@@ -1,0 +1,19 @@
+# sandbox / tooling junk
+.cache/
+.local/
+.config/
+.playwright-cli/
+.arena/
+uploads/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# secrets — never commit
+.ssh/
+*.pem
+*.key
+id_ed25519*

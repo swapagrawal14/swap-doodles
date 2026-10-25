@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Swap's Doodles — Bold, Bouncy, Flat 2D Doodles</title>
+<meta name="description" content="Swap's Doodles — a gallery of bold, bouncy, flat 2D vector cartoon characters. A new doodle every day-ish." />
+<meta name="theme-color" content="#FFF6E9" />
+<link rel="stylesheet" href="assets/style.css" />
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='24' fill='%231A1423'/><circle cx='34' cy='42' r='9' fill='%23FFD84D'/><circle cx='66' cy='42' r='9' fill='%23FFD84D'/><path d='M32 62c6 10 30 10 36 0' stroke='%23FFD84D' stroke-width='8' fill='none' stroke-linecap='round'/></svg>" />
+</head>
+<body>
+
+<!-- ============ ticker ============ -->
+<div class="ticker" aria-hidden="true">
+  <div class="ticker__track">
+    <span>NEW DROP ✷ 100% FLAT 2D ✷ BOLD &amp; BOUNCY ✷ NO OUTLINES ALLOWED ✷ DRAWN AT 2AM ✷ </span>
+    <span>NEW DROP ✷ 100% FLAT 2D ✷ BOLD &amp; BOUNCY ✷ NO OUTLINES ALLOWED ✷ DRAWN AT 2AM ✷ </span>
+  </div>
+</div>
+
+<!-- ============ header ============ -->
+<header class="nav">
+  <a class="logo" href="#top">
+    <span class="logo__mark" aria-hidden="true">
+      <svg viewBox="0 0 100 100" width="40" height="40">
+        <rect width="100" height="100" rx="26" fill="#1A1423"/>
+        <circle cx="35" cy="42" r="9.5" fill="#FFD84D"/>
+        <circle cx="65" cy="42" r="9.5" fill="#FFD84D"/>
+        <path d="M33 62c7 11 27 11 34 0" stroke="#FFD84D" stroke-width="8.5" fill="none" stroke-linecap="round"/>
+      </svg>
+    </span>
+    <span class="logo__text">Swap's&nbsp;<em>Doodles</em></span>
+  </a>
+
+  <nav class="nav__links" aria-label="Main">
+    <a href="#gallery">Gallery</a>
+    <a href="#about">About</a>
+    <a href="#prints">Prints</a>
+    <a href="#contact">Say hi</a>
+  </nav>
+
+  <a class="btn btn--ink nav__cta" href="#prints">Shop prints <span aria-hidden="true">↗</span></a>
+</header>
+
+<main id="top">
+
+  <!-- ============ hero ============ -->
+  <section class="hero">
+    <div class="hero__copy">
+      <p class="eyebrow"><span class="dot"></span> a doodle gallery · est. 2026</p>
+      <h1>
+        Big shapes.<br />
+        <span class="hl">Silly faces.</span><br />
+        Zero outlines.
+      </h1>
+      <p class="lede">
+        A growing wall of flat 2D vector characters — chunky limbs, tiny noses,
+        pastel backdrops. Painted in solid colour blocks, drawn to make you smile
+        on a Tuesday.
+      </p>
+      <div class="hero__actions">
+        <a class="btn btn--ink" href="#gallery">Browse the wall <span aria-hidden="true">↓</span></a>
+        <button class="btn btn--ghost" id="heroShuffle" type="button">Surprise me ✷</button>
+      </div>
+      <dl class="stats">
+        <div><dt id="statCount">50</dt><dd>doodles</dd></div>
+        <div><dt>6</dt><dd>colours max</dd></div>
+        <div><dt>0</dt><dd>gradients</dd></div>
+      </dl>
+    </div>
+
+    <div class="hero__art" aria-hidden="true">
+      <figure class="sticker sticker--a">
+        <img src="images/thumbs/01.jpg" alt="" />
+      </figure>
+      <figure class="sticker sticker--b">
+        <img src="images/thumbs/05.jpg" alt="" />
+      </figure>
+      <figure class="sticker sticker--c">
+        <img src="images/thumbs/08.jpg" alt="" />
+      </figure>
+      <svg class="squiggle" viewBox="0 0 220 60" width="220" height="60" fill="none">
+        <path d="M6 38c22-30 43 12 66-4s36-24 58-6 40 26 62 4" stroke="#1A1423" stroke-width="7" stroke-linecap="round"/>
+      </svg>
+      <span class="spark spark--1">✷</span>
+      <span class="spark spark--2">✷</span>
+    </div>
+  </section>
+
+  <!-- ============ gallery ============ -->
+  <section class="gallery" id="gallery">
+    <div class="gallery__head">
+      <div>
+        <h2>The wall</h2>
+        <p class="gallery__sub" id="gallerySub">Every doodle, newest first. Click one to blow it up.</p>
+      </div>
+      <div class="filters" role="group" aria-label="Filter by collection">
+        <button class="chip is-active" data-filter="all" type="button">All</button>
+        <button class="chip" data-filter="characters" type="button">Characters</button>
+        <button class="chip" data-filter="creatures" type="button">Creatures</button>
+        <button class="chip" data-filter="moments" type="button">Moments</button>
+        <button class="chip chip--shuffle" id="shuffleBtn" type="button">Shuffle ⟳</button>
+      </div>
+    </div>
+
+    <div class="grid" id="grid"><!-- cards injected --></div>
+  </section>
+
+  <!-- ============ about ============ -->
+  <section class="about" id="about">
+    <div class="about__copy">
+      <h2>How these get made</h2>
+      <p>
+        Every piece starts as a blob with feelings. Then come the rules:
+        flat fills only, no line art, no gradients, one soft shape for a
+        shadow, and a pastel square to sit in. If it doesn't look like it
+        could bounce off the page, it goes back in the drawer.
+      </p>
+      <a class="btn btn--ink" href="#gallery">See all doodles <span aria-hidden="true">→</span></a>
+    </div>
+    <ul class="rules">
+      <li><span class="rules__num">01</span><strong>Bold</strong><span>Chunky silhouettes you can read from across the room.</span></li>
+      <li><span class="rules__num">02</span><strong>Bouncy</strong><span>Bendy limbs, top-heavy heads, mid-jump poses.</span></li>
+      <li><span class="rules__num">03</span><strong>Flat</strong><span>Solid fills, six colours tops, never a single outline.</span></li>
+    </ul>
+  </section>
+
+  <!-- ============ prints ============ -->
+  <section class="prints" id="prints">
+    <div class="prints__card">
+      <h2>Take a doodle home</h2>
+      <p>All pieces come as 300dpi giclée prints in three sizes, on matte cotton paper. Frame not included, smile included.</p>
+      <form class="prints__form" onsubmit="event.preventDefault(); this.querySelector('button').textContent='You’re on the list ✷'; this.querySelector('button').disabled=true;">
+        <input type="email" required placeholder="you@email.com" aria-label="Email address" />
+        <button class="btn btn--yellow" type="submit">Notify me</button>
+      </form>
+      <p class="prints__fine">One email per drop. No spam, only doodles.</p>
+    </div>
+    <div class="prints__art" aria-hidden="true">
+      <img src="images/thumbs/07.jpg" alt="" />
+      <img src="images/thumbs/06.jpg" alt="" />
+    </div>
+  </section>
+</main>
+
+<!-- ============ footer ============ -->
+<footer class="foot" id="contact">
+  <div class="foot__top">
+    <div class="foot__brand">
+      <span class="logo__text">Swap's&nbsp;<em>Doodles</em></span>
+      <p>Flat 2D characters, drawn slowly, posted happily.</p>
+    </div>
+    <nav class="foot__links" aria-label="Footer">
+      <a href="#gallery">Gallery</a>
+      <a href="#about">About</a>
+      <a href="#prints">Prints</a>
+      <a href="mailto:hey@swapsdoodles.art">hey@swapsdoodles.art</a>
+    </nav>
+  </div>
+  <div class="foot__bottom">
+    <span>© 2026 Swap's Doodles</span>
+    <span>Made with flat colours &amp; too much chai ✷</span>
+  </div>
+</footer>
+
+<!-- ============ lightbox ============ -->
+<div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-labelledby="lbTitle" hidden>
+  <button class="lb__close" id="lbClose" type="button" aria-label="Close">✕</button>
+  <button class="lb__nav lb__nav--prev" id="lbPrev" type="button" aria-label="Previous doodle">←</button>
+  <button class="lb__nav lb__nav--next" id="lbNext" type="button" aria-label="Next doodle">→</button>
+
+  <div class="lb__inner">
+    <div class="lb__stage">
+      <img id="lbImg" src="" alt="" />
+    </div>
+    <aside class="lb__panel">
+      <p class="lb__count" id="lbCount">01 / 50</p>
+      <h3 id="lbTitle">Title</h3>
+      <p class="lb__tag" id="lbTag">characters</p>
+      <p class="lb__note">Flat 2D vector · solid fills · soft ground shadow</p>
+      <div class="lb__palette" id="lbPalette"></div>
+      <p class="lb__more">More like this</p>
+      <div class="lb__related" id="lbRelated"></div>
+      <a class="btn btn--yellow lb__dl" id="lbDl" href="#" download>Download PNG ↓</a>
+    </aside>
+  </div>
+</div>
+
+<script src="assets/gallery-data.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>
