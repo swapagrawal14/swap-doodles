@@ -198,5 +198,45 @@
   "50": {
     "title": "Starboy",
     "collection": "characters"
+  },
+  "51": {
+    "title": "Borrowed Boat",
+    "collection": "moments"
+  },
+  "52": {
+    "title": "Melting Point",
+    "collection": "creatures"
+  },
+  "53": {
+    "title": "Rolling Solo",
+    "collection": "characters"
+  },
+  "54": {
+    "title": "Night Watch",
+    "collection": "moments"
+  },
+  "55": {
+    "title": "Party Of One",
+    "collection": "creatures"
+  },
+  "56": {
+    "title": "Past Bedtime",
+    "collection": "moments"
+  },
+  "57": {
+    "title": "Updraft",
+    "collection": "creatures"
+  },
+  "58": {
+    "title": "Overwatered",
+    "collection": "creatures"
+  },
+  "59": {
+    "title": "Deep Focus",
+    "collection": "creatures"
+  },
+  "60": {
+    "title": "School Run",
+    "collection": "characters"
   }
 }
