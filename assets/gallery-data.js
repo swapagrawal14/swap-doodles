@@ -946,5 +946,165 @@ window.GALLERY = [
     ],
     "w": 1024,
     "h": 1024
+  },
+  {
+    "id": "61",
+    "n": 61,
+    "title": "Space Villain",
+    "collection": "cosplay",
+    "src": "images/61.png",
+    "thumb": "images/thumbs/61.jpg",
+    "palette": [
+      "#060807",
+      "#a3a5a3",
+      "#8e837b",
+      "#d4d5d4"
+    ],
+    "w": 1408,
+    "h": 768
+  },
+  {
+    "id": "62",
+    "n": 62,
+    "title": "Arr, Felt",
+    "collection": "cosplay",
+    "src": "images/62.png",
+    "thumb": "images/thumbs/62.jpg",
+    "palette": [
+      "#c4c2be",
+      "#613c31",
+      "#211c18",
+      "#6e6156"
+    ],
+    "w": 1408,
+    "h": 768
+  },
+  {
+    "id": "63",
+    "n": 63,
+    "title": "Felt Stranger",
+    "collection": "cosplay",
+    "src": "images/63.png",
+    "thumb": "images/thumbs/63.jpg",
+    "palette": [
+      "#5e6770",
+      "#82868f",
+      "#744e3d",
+      "#c7b0a4"
+    ],
+    "w": 1408,
+    "h": 768
+  },
+  {
+    "id": "64",
+    "n": 64,
+    "title": "Glizzy",
+    "collection": "cosplay",
+    "src": "images/64.png",
+    "thumb": "images/thumbs/64.jpg",
+    "palette": [
+      "#807d79",
+      "#804f38",
+      "#412f26",
+      "#bec0c5"
+    ],
+    "w": 1408,
+    "h": 768
+  },
+  {
+    "id": "65",
+    "n": 65,
+    "title": "Mermaid Off Duty",
+    "collection": "cosplay",
+    "src": "images/65.png",
+    "thumb": "images/thumbs/65.jpg",
+    "palette": [
+      "#ced6da",
+      "#423e33",
+      "#6e9495",
+      "#897060"
+    ],
+    "w": 1408,
+    "h": 768
+  },
+  {
+    "id": "66",
+    "n": 66,
+    "title": "Howdy",
+    "collection": "cosplay",
+    "src": "images/66.png",
+    "thumb": "images/thumbs/66.jpg",
+    "palette": [
+      "#c9ced1",
+      "#9c7662",
+      "#503024",
+      "#9ca1a3"
+    ],
+    "w": 1408,
+    "h": 768
+  },
+  {
+    "id": "67",
+    "n": 67,
+    "title": "Busy Bee",
+    "collection": "cosplay",
+    "src": "images/67.png",
+    "thumb": "images/thumbs/67.jpg",
+    "palette": [
+      "#664f3a",
+      "#1c1814",
+      "#cccccd",
+      "#ab7853"
+    ],
+    "w": 1408,
+    "h": 768
+  },
+  {
+    "id": "68",
+    "n": 68,
+    "title": "Sir Woollen",
+    "collection": "cosplay",
+    "src": "images/68.png",
+    "thumb": "images/thumbs/68.jpg",
+    "palette": [
+      "#391618",
+      "#dadce1",
+      "#a7958c",
+      "#706867"
+    ],
+    "w": 1408,
+    "h": 768
+  },
+  {
+    "id": "69",
+    "n": 69,
+    "title": "Fangs A Lot",
+    "collection": "cosplay",
+    "src": "images/69.png",
+    "thumb": "images/thumbs/69.jpg",
+    "palette": [
+      "#aeaeb3",
+      "#746960",
+      "#9b8e83",
+      "#472e2a"
+    ],
+    "w": 1408,
+    "h": 768
+  },
+  {
+    "id": "70",
+    "n": 70,
+    "title": "Tourist Trap",
+    "collection": "cosplay",
+    "src": "images/70.png",
+    "thumb": "images/thumbs/70.jpg",
+    "palette": [
+      "#949fa6",
+      "#dae0e5",
+      "#292523",
+      "#7c8082"
+    ],
+    "w": 1408,
+    "h": 768
   }
 ];

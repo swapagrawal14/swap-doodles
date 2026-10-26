@@ -13,6 +13,15 @@
   const lbTag = document.getElementById("lbTag");
   const lbCount = document.getElementById("lbCount");
   const lbPalette = document.getElementById("lbPalette");
+  const lbNote = document.getElementById("lbNote");
+
+  const NOTES = {
+    characters: "Flat 2D vector · solid fills · soft ground shadow",
+    creatures: "Flat 2D vector · solid fills · soft ground shadow",
+    moments: "Flat 2D vector · solid fills · soft ground shadow",
+    cosplay: "Needle-felted wool puppet · hand-stitched · macro studio shot",
+    _default: "Flat 2D vector · solid fills · soft ground shadow",
+  };
   const lbDl = document.getElementById("lbDl");
 
   let filter = "all";
@@ -111,6 +120,7 @@
     lbImg.alt = item.title + " — flat 2D vector cartoon illustration";
     lbTitle.textContent = item.title;
     lbTag.textContent = item.collection;
+    lbNote.textContent = NOTES[item.collection] || NOTES._default;
     lbCount.textContent = String(index + 1).padStart(2, "0") + " / " + String(visible.length).padStart(2, "0");
     lbPalette.innerHTML = item.palette.map((c) => '<i style="background:' + c + '"></i>').join("");
 

@@ -238,5 +238,45 @@
   "60": {
     "title": "School Run",
     "collection": "characters"
+  },
+  "61": {
+    "title": "Space Villain",
+    "collection": "cosplay"
+  },
+  "62": {
+    "title": "Arr, Felt",
+    "collection": "cosplay"
+  },
+  "63": {
+    "title": "Felt Stranger",
+    "collection": "cosplay"
+  },
+  "64": {
+    "title": "Glizzy",
+    "collection": "cosplay"
+  },
+  "65": {
+    "title": "Mermaid Off Duty",
+    "collection": "cosplay"
+  },
+  "66": {
+    "title": "Howdy",
+    "collection": "cosplay"
+  },
+  "67": {
+    "title": "Busy Bee",
+    "collection": "cosplay"
+  },
+  "68": {
+    "title": "Sir Woollen",
+    "collection": "cosplay"
+  },
+  "69": {
+    "title": "Fangs A Lot",
+    "collection": "cosplay"
+  },
+  "70": {
+    "title": "Tourist Trap",
+    "collection": "cosplay"
   }
 }
