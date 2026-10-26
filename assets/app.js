@@ -22,6 +22,7 @@
     cosplay: "Needle-felted wool puppet · hand-stitched · macro studio shot",
     swap: "Comic ink portrait · bold outlines · cross-hatch shading",
     redraw: "Diptych · photo left, ballpoint doodle right",
+    objects: "Mixed media · real object + single-colour ink linework",
     _default: "Flat 2D vector · solid fills · soft ground shadow",
   };
   const lbDl = document.getElementById("lbDl");
@@ -191,7 +192,7 @@
 
   /* ---------------- hero collage uses newest art ---------------- */
   const heroImgs = document.querySelectorAll(".hero__art .sticker img");
-  const picks = ["30", "71", "81"];
+  const picks = ["30", "71", "95"];
   heroImgs.forEach((img, i) => {
     const found = ALL.find((a) => a.id === picks[i]) || ALL[ALL.length - 1 - i] || ALL[0];
     if (found) img.src = found.thumb;

@@ -39,6 +39,10 @@
     "title": "The One That Got Away",
     "collection": "characters"
   },
+  "100": {
+    "title": "Bread Bed",
+    "collection": "objects"
+  },
   "11": {
     "title": "Morning Haunt",
     "collection": "creatures"
@@ -354,5 +358,41 @@
   "90": {
     "title": "Tree Pose, Redrawn",
     "collection": "redraw"
+  },
+  "91": {
+    "title": "Pear Balloon",
+    "collection": "objects"
+  },
+  "92": {
+    "title": "Egg Man",
+    "collection": "objects"
+  },
+  "93": {
+    "title": "Match Rocket",
+    "collection": "objects"
+  },
+  "94": {
+    "title": "Leaf Sail",
+    "collection": "objects"
+  },
+  "95": {
+    "title": "Lemon Sunrise",
+    "collection": "objects"
+  },
+  "96": {
+    "title": "Walnut Mind",
+    "collection": "objects"
+  },
+  "97": {
+    "title": "Strawberry Pulse",
+    "collection": "objects"
+  },
+  "98": {
+    "title": "Clip Cast",
+    "collection": "objects"
+  },
+  "99": {
+    "title": "Tomato Beetle",
+    "collection": "objects"
   }
 }
