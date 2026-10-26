@@ -1345,6 +1345,22 @@ window.GALLERY = [
     "h": 768
   },
   {
+    "id": "86",
+    "n": 86,
+    "title": "My Tractor",
+    "collection": "redraw",
+    "src": "images/86.webp",
+    "thumb": "images/thumbs/86.webp",
+    "palette": [
+      "#567232",
+      "#85a650",
+      "#1c2114",
+      "#314823"
+    ],
+    "w": 1408,
+    "h": 768
+  },
+  {
     "id": "87",
     "n": 87,
     "title": "Shell Game",
