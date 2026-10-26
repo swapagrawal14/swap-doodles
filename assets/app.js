@@ -61,9 +61,13 @@
         .map((c) => '<i style="background:' + c + '"></i>')
         .join("");
 
+      const eager = i < 8;
       card.innerHTML =
         '<span class="card__img">' +
-        '<img src="' + item.thumb + '" alt="' + item.title + ' — flat 2D vector cartoon" loading="lazy" width="560" height="560" />' +
+        '<img src="' + item.thumb + '" alt="' + item.title + '"' +
+        ' width="480" height="480" decoding="async"' +
+        (eager ? ' loading="eager" fetchpriority="high"' : ' loading="lazy" fetchpriority="low"') +
+        ' />' +
         '<span class="card__view">View ↑</span>' +
         "</span>" +
         '<span class="card__meta">' +
@@ -144,7 +148,7 @@
       related.appendChild(b);
     });
     lbDl.href = item.src;
-    lbDl.setAttribute("download", "swaps-doodles-" + String(item.n).padStart(2, "0") + ".png");
+    lbDl.setAttribute("download", "swaps-doodles-" + String(item.n).padStart(2, "0") + ".webp");
   }
 
   function open(i) {

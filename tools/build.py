@@ -68,7 +68,9 @@ def palette(im, n=4, bg_tol=34, spread=46):
     return ["#%02x%02x%02x" % c for c in out]
 
 items = []
-files = sorted(glob.glob(os.path.join(IMG_DIR, "*.png")))
+files = sorted(
+    glob.glob(os.path.join(IMG_DIR, "*.webp")) or glob.glob(os.path.join(IMG_DIR, "*.png"))
+)
 for i, path in enumerate(files, start=1):
     key = os.path.splitext(os.path.basename(path))[0]
     im = Image.open(path)
@@ -76,8 +78,8 @@ for i, path in enumerate(files, start=1):
     side = min(w, h)
     box = ((w - side) // 2, (h - side) // 2, (w - side) // 2 + side, (h - side) // 2 + side)
 
-    thumb = im.convert("RGB").crop(box).resize((560, 560), Image.LANCZOS)
-    thumb.save(os.path.join(THUMB_DIR, key + ".jpg"), quality=84, optimize=True, progressive=True)
+    thumb = im.convert("RGB").crop(box).resize((480, 480), Image.LANCZOS)
+    thumb.save(os.path.join(THUMB_DIR, key + ".webp"), "WEBP", quality=80, method=6)
 
     meta = titles.get(key, {})
     n = int(key) if key.isdigit() else i
@@ -87,7 +89,7 @@ for i, path in enumerate(files, start=1):
         "title": meta.get("title") or FALLBACK_TITLES[(n - 1) % len(FALLBACK_TITLES)],
         "collection": meta.get("collection", COLLECTIONS[(n - 1) % 3]),
         "src": "images/" + os.path.basename(path),
-        "thumb": "images/thumbs/" + key + ".jpg",
+        "thumb": "images/thumbs/" + key + ".webp",
         "palette": palette(im),
         "w": w,
         "h": h,

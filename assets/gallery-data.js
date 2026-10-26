@@ -5,13 +5,13 @@ window.GALLERY = [
     "n": 1,
     "title": "Kickflip Kid",
     "collection": "characters",
-    "src": "images/01.png",
-    "thumb": "images/thumbs/01.jpg",
+    "src": "images/01.webp",
+    "thumb": "images/thumbs/01.webp",
     "palette": [
-      "#feb38b",
-      "#8456b0",
-      "#fd6e1f",
-      "#d26447"
+      "#ffb288",
+      "#fd6f1f",
+      "#8556b0",
+      "#c49379"
     ],
     "w": 1024,
     "h": 1024
@@ -21,13 +21,13 @@ window.GALLERY = [
     "n": 2,
     "title": "Grandma Orbit",
     "collection": "characters",
-    "src": "images/02.png",
-    "thumb": "images/thumbs/02.jpg",
+    "src": "images/02.webp",
+    "thumb": "images/thumbs/02.webp",
     "palette": [
-      "#f7b68e",
-      "#b8ada7",
-      "#a6d9cf",
-      "#f4faf6"
+      "#a7dad8",
+      "#f6b68e",
+      "#b5ada7",
+      "#f0f9f3"
     ],
     "w": 1024,
     "h": 1024
@@ -37,13 +37,13 @@ window.GALLERY = [
     "n": 3,
     "title": "Too Cool To Nap",
     "collection": "creatures",
-    "src": "images/03.png",
-    "thumb": "images/thumbs/03.jpg",
+    "src": "images/03.webp",
+    "thumb": "images/thumbs/03.webp",
     "palette": [
-      "#fd7069",
-      "#24306c",
-      "#151d43",
-      "#b3616a"
+      "#23306b",
+      "#fd7169",
+      "#e5c49e",
+      "#131a3c"
     ],
     "w": 1408,
     "h": 768
@@ -53,13 +53,13 @@ window.GALLERY = [
     "n": 4,
     "title": "Disco On Wheels",
     "collection": "characters",
-    "src": "images/04.png",
-    "thumb": "images/thumbs/04.jpg",
+    "src": "images/04.webp",
+    "thumb": "images/thumbs/04.webp",
     "palette": [
       "#e4ad7f",
       "#030303",
-      "#625085",
-      "#b08a93"
+      "#7662a3",
+      "#bec3c9"
     ],
     "w": 1024,
     "h": 1024
@@ -69,13 +69,13 @@ window.GALLERY = [
     "n": 5,
     "title": "Personal Weather",
     "collection": "moments",
-    "src": "images/05.png",
-    "thumb": "images/thumbs/05.jpg",
+    "src": "images/05.webp",
+    "thumb": "images/thumbs/05.webp",
     "palette": [
-      "#5497b5",
-      "#fbcc0a",
-      "#837189",
-      "#e4b983"
+      "#fbcd09",
+      "#509aae",
+      "#876e84",
+      "#a3a6ba"
     ],
     "w": 1024,
     "h": 1024
@@ -85,12 +85,12 @@ window.GALLERY = [
     "n": 6,
     "title": "Tree Pose Tuesday",
     "collection": "characters",
-    "src": "images/06.png",
-    "thumb": "images/thumbs/06.jpg",
+    "src": "images/06.webp",
+    "thumb": "images/thumbs/06.webp",
     "palette": [
-      "#e87872",
-      "#716066",
-      "#f6d8bb"
+      "#e98277",
+      "#6f6066",
+      "#f8be9b"
     ],
     "w": 1024,
     "h": 1024
@@ -100,13 +100,13 @@ window.GALLERY = [
     "n": 7,
     "title": "Fresh Out The Oven",
     "collection": "characters",
-    "src": "images/07.png",
-    "thumb": "images/thumbs/07.jpg",
+    "src": "images/07.webp",
+    "thumb": "images/thumbs/07.webp",
     "palette": [
-      "#fdb384",
-      "#c82c30",
-      "#f5e8d0",
-      "#772b25"
+      "#fdb282",
+      "#b44c46",
+      "#dbdabc",
+      "#c8ab80"
     ],
     "w": 1024,
     "h": 1024
@@ -116,12 +116,13 @@ window.GALLERY = [
     "n": 8,
     "title": "Slow Hang",
     "collection": "creatures",
-    "src": "images/08.png",
-    "thumb": "images/thumbs/08.jpg",
+    "src": "images/08.webp",
+    "thumb": "images/thumbs/08.webp",
     "palette": [
-      "#91918f",
-      "#d6b7b5",
-      "#6f4735"
+      "#90918e",
+      "#683e2b",
+      "#e9b1b0",
+      "#7f706a"
     ],
     "w": 1024,
     "h": 1024
@@ -131,13 +132,13 @@ window.GALLERY = [
     "n": 9,
     "title": "Overdue Notices",
     "collection": "characters",
-    "src": "images/09.png",
-    "thumb": "images/thumbs/09.jpg",
+    "src": "images/09.webp",
+    "thumb": "images/thumbs/09.webp",
     "palette": [
-      "#e59f80",
-      "#95926a",
-      "#27314d",
-      "#c85b40"
+      "#e6a68a",
+      "#cf834d",
+      "#75836f",
+      "#213352"
     ],
     "w": 1024,
     "h": 1024
@@ -147,13 +148,13 @@ window.GALLERY = [
     "n": 10,
     "title": "The One That Got Away",
     "collection": "characters",
-    "src": "images/10.png",
-    "thumb": "images/thumbs/10.jpg",
+    "src": "images/10.webp",
+    "thumb": "images/thumbs/10.webp",
     "palette": [
-      "#4a8bc1",
-      "#1c457c",
-      "#fdcf2e",
-      "#2c6ba5"
+      "#3974a7",
+      "#f8d13f",
+      "#1e4d82",
+      "#c0a852"
     ],
     "w": 1024,
     "h": 1024
@@ -163,13 +164,13 @@ window.GALLERY = [
     "n": 11,
     "title": "Morning Haunt",
     "collection": "creatures",
-    "src": "images/11.png",
-    "thumb": "images/thumbs/11.jpg",
+    "src": "images/11.webp",
+    "thumb": "images/thumbs/11.webp",
     "palette": [
-      "#b998d0",
-      "#62bcb3",
-      "#f7f6fa",
-      "#665d71"
+      "#b999d0",
+      "#62bdb3",
+      "#e2d6ec",
+      "#877597"
     ],
     "w": 1024,
     "h": 1024
@@ -179,12 +180,12 @@ window.GALLERY = [
     "n": 12,
     "title": "Cloud Break",
     "collection": "moments",
-    "src": "images/12.png",
-    "thumb": "images/thumbs/12.jpg",
+    "src": "images/12.webp",
+    "thumb": "images/thumbs/12.webp",
     "palette": [
-      "#d47952",
-      "#c7c8c4",
-      "#ecf3f8"
+      "#d0977b",
+      "#bedaee",
+      "#ffffff"
     ],
     "w": 1024,
     "h": 1024
@@ -194,13 +195,12 @@ window.GALLERY = [
     "n": 13,
     "title": "Sir Beetle",
     "collection": "creatures",
-    "src": "images/13.png",
-    "thumb": "images/thumbs/13.jpg",
+    "src": "images/13.webp",
+    "thumb": "images/thumbs/13.webp",
     "palette": [
-      "#4d582c",
-      "#919c53",
-      "#ccb389",
-      "#727c41"
+      "#4a562a",
+      "#8a9b4b",
+      "#aba46b"
     ],
     "w": 1024,
     "h": 1024
@@ -210,12 +210,13 @@ window.GALLERY = [
     "n": 14,
     "title": "Weightless",
     "collection": "creatures",
-    "src": "images/14.png",
-    "thumb": "images/thumbs/14.jpg",
+    "src": "images/14.webp",
+    "thumb": "images/thumbs/14.webp",
     "palette": [
-      "#393130",
-      "#bbe2f5",
-      "#e9abb1"
+      "#e4cccd",
+      "#bbe2f4",
+      "#201f1d",
+      "#aa7f84"
     ],
     "w": 1024,
     "h": 1024
@@ -225,13 +226,13 @@ window.GALLERY = [
     "n": 15,
     "title": "Just A Trim",
     "collection": "characters",
-    "src": "images/15.png",
-    "thumb": "images/thumbs/15.jpg",
+    "src": "images/15.webp",
+    "thumb": "images/thumbs/15.webp",
     "palette": [
-      "#40221b",
-      "#dca274",
-      "#cdc9c2",
-      "#3c5a6c"
+      "#412219",
+      "#dda274",
+      "#cdceca",
+      "#3c5368"
     ],
     "w": 1024,
     "h": 1024
@@ -241,12 +242,12 @@ window.GALLERY = [
     "n": 16,
     "title": "Contains Multitudes",
     "collection": "characters",
-    "src": "images/16.png",
-    "thumb": "images/thumbs/16.jpg",
+    "src": "images/16.webp",
+    "thumb": "images/thumbs/16.webp",
     "palette": [
-      "#000000",
-      "#878e90",
-      "#d4dde2"
+      "#020202",
+      "#f1f4f6",
+      "#98a1a4"
     ],
     "w": 1024,
     "h": 1024
@@ -256,13 +257,13 @@ window.GALLERY = [
     "n": 17,
     "title": "Lilypad Hero",
     "collection": "creatures",
-    "src": "images/17.png",
-    "thumb": "images/thumbs/17.jpg",
+    "src": "images/17.webp",
+    "thumb": "images/thumbs/17.webp",
     "palette": [
-      "#328770",
-      "#b0d854",
-      "#62976e",
-      "#6d5a52"
+      "#32886f",
+      "#aad04a",
+      "#d3323b",
+      "#bce470"
     ],
     "w": 1024,
     "h": 1024
@@ -272,13 +273,13 @@ window.GALLERY = [
     "n": 18,
     "title": "Special Delivery",
     "collection": "characters",
-    "src": "images/18.png",
-    "thumb": "images/thumbs/18.jpg",
+    "src": "images/18.webp",
+    "thumb": "images/thumbs/18.webp",
     "palette": [
       "#f7f1a3",
-      "#acd1cd",
-      "#e3b395",
-      "#6289b0"
+      "#e0b396",
+      "#6089b0",
+      "#bcd3c0"
     ],
     "w": 1024,
     "h": 1024
@@ -288,13 +289,12 @@ window.GALLERY = [
     "n": 19,
     "title": "Flamingo Frequencies",
     "collection": "creatures",
-    "src": "images/19.png",
-    "thumb": "images/thumbs/19.jpg",
+    "src": "images/19.webp",
+    "thumb": "images/thumbs/19.webp",
     "palette": [
-      "#ff665f",
-      "#b797a1",
-      "#533e43",
-      "#f1a3a4"
+      "#d59599",
+      "#a95251",
+      "#f2c8cd"
     ],
     "w": 1408,
     "h": 768
@@ -304,13 +304,13 @@ window.GALLERY = [
     "n": 20,
     "title": "If It Fits",
     "collection": "creatures",
-    "src": "images/20.png",
-    "thumb": "images/thumbs/20.jpg",
+    "src": "images/20.webp",
+    "thumb": "images/thumbs/20.webp",
     "palette": [
+      "#d5a47b",
+      "#453f3c",
       "#626160",
-      "#d2a783",
-      "#464644",
-      "#9c6747"
+      "#8f654b"
     ],
     "w": 1024,
     "h": 1024
@@ -320,12 +320,12 @@ window.GALLERY = [
     "n": 21,
     "title": "Airborne",
     "collection": "characters",
-    "src": "images/21.png",
-    "thumb": "images/thumbs/21.jpg",
+    "src": "images/21.webp",
+    "thumb": "images/thumbs/21.webp",
     "palette": [
-      "#fea67e",
-      "#a96452",
-      "#d0d6b5",
+      "#fea67d",
+      "#d0d7b5",
+      "#e67646",
       "#87d0bb"
     ],
     "w": 1024,
@@ -336,13 +336,13 @@ window.GALLERY = [
     "n": 22,
     "title": "Totem",
     "collection": "creatures",
-    "src": "images/22.png",
-    "thumb": "images/thumbs/22.jpg",
+    "src": "images/22.webp",
+    "thumb": "images/thumbs/22.webp",
     "palette": [
-      "#deaf2c",
-      "#52b095",
-      "#ca7265",
-      "#9ecfd5"
+      "#53b096",
+      "#dfb02c",
+      "#d27769",
+      "#add1d2"
     ],
     "w": 1024,
     "h": 1024
@@ -352,12 +352,12 @@ window.GALLERY = [
     "n": 23,
     "title": "Unbothered",
     "collection": "characters",
-    "src": "images/23.png",
-    "thumb": "images/thumbs/23.jpg",
+    "src": "images/23.webp",
+    "thumb": "images/thumbs/23.webp",
     "palette": [
-      "#edaf89",
-      "#ac8363",
-      "#fdefd4"
+      "#e7ac87",
+      "#ebd9b9",
+      "#896c4e"
     ],
     "w": 1024,
     "h": 1024
@@ -367,13 +367,13 @@ window.GALLERY = [
     "n": 24,
     "title": "Prickly Personality",
     "collection": "creatures",
-    "src": "images/24.png",
-    "thumb": "images/thumbs/24.jpg",
+    "src": "images/24.webp",
+    "thumb": "images/thumbs/24.webp",
     "palette": [
-      "#ca6325",
-      "#4c9a53",
-      "#efb495",
-      "#7d3e1a"
+      "#59a95a",
+      "#92471c",
+      "#f0c6b1",
+      "#907d3b"
     ],
     "w": 1024,
     "h": 1024
@@ -383,13 +383,12 @@ window.GALLERY = [
     "n": 25,
     "title": "Ground Crew",
     "collection": "characters",
-    "src": "images/25.png",
-    "thumb": "images/thumbs/25.jpg",
+    "src": "images/25.webp",
+    "thumb": "images/thumbs/25.webp",
     "palette": [
-      "#9c5f3b",
-      "#e2d0b3",
-      "#929592",
-      "#665349"
+      "#845940",
+      "#d7c9ad",
+      "#92938f"
     ],
     "w": 1024,
     "h": 1024
@@ -399,13 +398,13 @@ window.GALLERY = [
     "n": 26,
     "title": "Cake Service",
     "collection": "creatures",
-    "src": "images/26.png",
-    "thumb": "images/thumbs/26.jpg",
+    "src": "images/26.webp",
+    "thumb": "images/thumbs/26.webp",
     "palette": [
-      "#49a8a5",
-      "#fbf4e9",
-      "#e7c8b7",
-      "#8ebac2"
+      "#49a8a4",
+      "#fbf4e7",
+      "#cdbcd4",
+      "#78b3be"
     ],
     "w": 1024,
     "h": 1024
@@ -415,13 +414,13 @@ window.GALLERY = [
     "n": 27,
     "title": "Puddle Protocol",
     "collection": "moments",
-    "src": "images/27.png",
-    "thumb": "images/thumbs/27.jpg",
+    "src": "images/27.webp",
+    "thumb": "images/thumbs/27.webp",
     "palette": [
-      "#33669b",
-      "#ee3936",
-      "#f8a981",
-      "#a2ceca"
+      "#1f75b3",
+      "#a2cfc9",
+      "#ef3735",
+      "#ddac8f"
     ],
     "w": 1024,
     "h": 1024
@@ -431,12 +430,12 @@ window.GALLERY = [
     "n": 28,
     "title": "Room To Grow",
     "collection": "moments",
-    "src": "images/28.png",
-    "thumb": "images/thumbs/28.jpg",
+    "src": "images/28.webp",
+    "thumb": "images/thumbs/28.webp",
     "palette": [
-      "#9d9595",
-      "#6d6d69",
-      "#beb4b4"
+      "#747470",
+      "#a0888a",
+      "#a8aaa9"
     ],
     "w": 1024,
     "h": 1024
@@ -446,13 +445,13 @@ window.GALLERY = [
     "n": 29,
     "title": "Upside Down There",
     "collection": "moments",
-    "src": "images/29.png",
-    "thumb": "images/thumbs/29.jpg",
+    "src": "images/29.webp",
+    "thumb": "images/thumbs/29.webp",
     "palette": [
-      "#377d89",
-      "#183056",
-      "#f6a034",
-      "#e7dcc4"
+      "#377c89",
+      "#193057",
+      "#f4a746",
+      "#858d73"
     ],
     "w": 1024,
     "h": 1024
@@ -462,13 +461,13 @@ window.GALLERY = [
     "n": 30,
     "title": "Moon Maintenance",
     "collection": "moments",
-    "src": "images/30.png",
-    "thumb": "images/thumbs/30.jpg",
+    "src": "images/30.webp",
+    "thumb": "images/thumbs/30.webp",
     "palette": [
-      "#fbb545",
-      "#cad6de",
-      "#716e6f",
-      "#d4a25c"
+      "#fcb645",
+      "#d5cdb5",
+      "#424a61",
+      "#b6996e"
     ],
     "w": 1024,
     "h": 1024
@@ -478,13 +477,13 @@ window.GALLERY = [
     "n": 31,
     "title": "Winter Bird",
     "collection": "creatures",
-    "src": "images/31.png",
-    "thumb": "images/thumbs/31.jpg",
+    "src": "images/31.webp",
+    "thumb": "images/thumbs/31.webp",
     "palette": [
-      "#86b0d6",
-      "#633920",
-      "#eca072",
-      "#648fb4"
+      "#87b1d7",
+      "#643a20",
+      "#cba455",
+      "#f0ac7a"
     ],
     "w": 1024,
     "h": 1024
@@ -494,13 +493,13 @@ window.GALLERY = [
     "n": 32,
     "title": "Double Trouble",
     "collection": "characters",
-    "src": "images/32.png",
-    "thumb": "images/thumbs/32.jpg",
+    "src": "images/32.webp",
+    "thumb": "images/thumbs/32.webp",
     "palette": [
-      "#4b2c18",
-      "#2d498b",
       "#febd9e",
-      "#928591"
+      "#432513",
+      "#4d5d8c",
+      "#cbc6e8"
     ],
     "w": 1024,
     "h": 1024
@@ -510,13 +509,13 @@ window.GALLERY = [
     "n": 33,
     "title": "Toadstool Tenants",
     "collection": "creatures",
-    "src": "images/33.png",
-    "thumb": "images/thumbs/33.jpg",
+    "src": "images/33.webp",
+    "thumb": "images/thumbs/33.webp",
     "palette": [
-      "#d9312e",
-      "#f2ddb2",
-      "#74938e",
-      "#f1eedf"
+      "#d9312f",
+      "#f3deb4",
+      "#729490",
+      "#f1f5ef"
     ],
     "w": 1024,
     "h": 1024
@@ -526,13 +525,13 @@ window.GALLERY = [
     "n": 34,
     "title": "Rawr",
     "collection": "characters",
-    "src": "images/34.png",
-    "thumb": "images/thumbs/34.jpg",
+    "src": "images/34.webp",
+    "thumb": "images/thumbs/34.webp",
     "palette": [
+      "#f5ab7b",
       "#40874c",
-      "#feab7b",
-      "#bfb67a",
-      "#87955e"
+      "#b8c774",
+      "#6c9158"
     ],
     "w": 1024,
     "h": 1024
@@ -542,13 +541,13 @@ window.GALLERY = [
     "n": 35,
     "title": "Five More Minutes",
     "collection": "moments",
-    "src": "images/35.png",
-    "thumb": "images/thumbs/35.jpg",
+    "src": "images/35.webp",
+    "thumb": "images/thumbs/35.webp",
     "palette": [
-      "#f9f3db",
-      "#c6cdc5",
-      "#80704d",
-      "#dbc384"
+      "#bfccc7",
+      "#f7f1da",
+      "#77694a",
+      "#dec27e"
     ],
     "w": 1408,
     "h": 768
@@ -558,13 +557,12 @@ window.GALLERY = [
     "n": 36,
     "title": "Personal Best",
     "collection": "characters",
-    "src": "images/36.png",
-    "thumb": "images/thumbs/36.jpg",
+    "src": "images/36.webp",
+    "thumb": "images/thumbs/36.webp",
     "palette": [
-      "#e1a56f",
-      "#ebe3e0",
-      "#a16b74",
-      "#b8b7bf"
+      "#d7878b",
+      "#ddbda3",
+      "#91646e"
     ],
     "w": 1024,
     "h": 1024
@@ -574,13 +572,13 @@ window.GALLERY = [
     "n": 37,
     "title": "Long Nap",
     "collection": "creatures",
-    "src": "images/37.png",
-    "thumb": "images/thumbs/37.jpg",
+    "src": "images/37.webp",
+    "thumb": "images/thumbs/37.webp",
     "palette": [
-      "#6f989e",
-      "#c1522c",
-      "#9a887c",
-      "#b9a696"
+      "#6f999f",
+      "#c65930",
+      "#b48571",
+      "#c5a895"
     ],
     "w": 1024,
     "h": 1024
@@ -590,13 +588,13 @@ window.GALLERY = [
     "n": 38,
     "title": "Prize Crop",
     "collection": "characters",
-    "src": "images/38.png",
-    "thumb": "images/thumbs/38.jpg",
+    "src": "images/38.webp",
+    "thumb": "images/thumbs/38.webp",
     "palette": [
       "#f77127",
-      "#eac49d",
-      "#4b8f5a",
-      "#8fba80"
+      "#eccaa4",
+      "#4aae62",
+      "#bcc395"
     ],
     "w": 1024,
     "h": 1024
@@ -606,12 +604,12 @@ window.GALLERY = [
     "n": 39,
     "title": "Sky Whales",
     "collection": "moments",
-    "src": "images/39.png",
-    "thumb": "images/thumbs/39.jpg",
+    "src": "images/39.webp",
+    "thumb": "images/thumbs/39.webp",
     "palette": [
-      "#6295cc",
-      "#d5dbde",
-      "#b3c3e7"
+      "#6295ca",
+      "#dce1e2",
+      "#b3c4e7"
     ],
     "w": 1024,
     "h": 1024
@@ -621,13 +619,13 @@ window.GALLERY = [
     "n": 40,
     "title": "Up Up Up",
     "collection": "moments",
-    "src": "images/40.png",
-    "thumb": "images/thumbs/40.jpg",
+    "src": "images/40.webp",
+    "thumb": "images/thumbs/40.webp",
     "palette": [
-      "#52b36c",
-      "#468eae",
-      "#f5e430",
-      "#c3404d"
+      "#47a194",
+      "#b14461",
+      "#f3e14b",
+      "#cadbd5"
     ],
     "w": 1024,
     "h": 1024
@@ -637,13 +635,13 @@ window.GALLERY = [
     "n": 41,
     "title": "Rolling Thunder",
     "collection": "creatures",
-    "src": "images/41.png",
-    "thumb": "images/thumbs/41.jpg",
+    "src": "images/41.webp",
+    "thumb": "images/thumbs/41.webp",
     "palette": [
-      "#da844e",
-      "#f79e7e",
-      "#fcd7b5",
-      "#97532e"
+      "#d68552",
+      "#6b432d",
+      "#f6997b",
+      "#c26330"
     ],
     "w": 1024,
     "h": 1024
@@ -653,13 +651,13 @@ window.GALLERY = [
     "n": 42,
     "title": "Maestro",
     "collection": "characters",
-    "src": "images/42.png",
-    "thumb": "images/thumbs/42.jpg",
+    "src": "images/42.webp",
+    "thumb": "images/thumbs/42.webp",
     "palette": [
-      "#2d4a8c",
-      "#462a16",
-      "#676d85",
-      "#bc989a"
+      "#472b19",
+      "#2d4b8c",
+      "#939094",
+      "#bfa6ba"
     ],
     "w": 1024,
     "h": 1024
@@ -669,13 +667,13 @@ window.GALLERY = [
     "n": 43,
     "title": "Two Cups",
     "collection": "moments",
-    "src": "images/43.png",
-    "thumb": "images/thumbs/43.jpg",
+    "src": "images/43.webp",
+    "thumb": "images/thumbs/43.webp",
     "palette": [
-      "#087b78",
-      "#c1611d",
-      "#599d92",
-      "#3a7068"
+      "#097b79",
+      "#c1621d",
+      "#4f6d60",
+      "#b1c0a8"
     ],
     "w": 1024,
     "h": 1024
@@ -685,13 +683,13 @@ window.GALLERY = [
     "n": 44,
     "title": "Window Seat",
     "collection": "moments",
-    "src": "images/44.png",
-    "thumb": "images/thumbs/44.jpg",
+    "src": "images/44.webp",
+    "thumb": "images/thumbs/44.webp",
     "palette": [
-      "#fbefd7",
-      "#fea980",
-      "#9db7c9",
-      "#6185af"
+      "#fea97f",
+      "#fbefd8",
+      "#6a8fb1",
+      "#9fb7c6"
     ],
     "w": 1408,
     "h": 768
@@ -701,13 +699,13 @@ window.GALLERY = [
     "n": 45,
     "title": "Bookworm",
     "collection": "creatures",
-    "src": "images/45.png",
-    "thumb": "images/thumbs/45.jpg",
+    "src": "images/45.webp",
+    "thumb": "images/thumbs/45.webp",
     "palette": [
-      "#2f7cc8",
-      "#f8771f",
-      "#45aa59",
-      "#f9bb2c"
+      "#237ab6",
+      "#36a352",
+      "#f77a21",
+      "#f6b72a"
     ],
     "w": 1024,
     "h": 1024
@@ -717,13 +715,13 @@ window.GALLERY = [
     "n": 46,
     "title": "Shell Surfing",
     "collection": "characters",
-    "src": "images/46.png",
-    "thumb": "images/thumbs/46.jpg",
+    "src": "images/46.webp",
+    "thumb": "images/thumbs/46.webp",
     "palette": [
-      "#ff6748",
-      "#fba468",
-      "#806a48",
-      "#f0d532"
+      "#ff6648",
+      "#39754b",
+      "#f9a37a",
+      "#fbd30c"
     ],
     "w": 1024,
     "h": 1024
@@ -733,12 +731,12 @@ window.GALLERY = [
     "n": 47,
     "title": "Brain Freeze",
     "collection": "creatures",
-    "src": "images/47.png",
-    "thumb": "images/thumbs/47.jpg",
+    "src": "images/47.webp",
+    "thumb": "images/thumbs/47.webp",
     "palette": [
-      "#eebac7",
-      "#ce8695",
-      "#dfb178"
+      "#eeb9c7",
+      "#d89c71",
+      "#fddcd9"
     ],
     "w": 1024,
     "h": 1024
@@ -748,13 +746,13 @@ window.GALLERY = [
     "n": 48,
     "title": "Labor Of Love",
     "collection": "characters",
-    "src": "images/48.png",
-    "thumb": "images/thumbs/48.jpg",
+    "src": "images/48.webp",
+    "thumb": "images/thumbs/48.webp",
     "palette": [
-      "#bf4e2a",
-      "#324c8e",
-      "#d79e2a",
-      "#d5c0dc"
+      "#2f4d90",
+      "#c64e26",
+      "#d7a02a",
+      "#d3bfdd"
     ],
     "w": 1024,
     "h": 1024
@@ -764,13 +762,13 @@ window.GALLERY = [
     "n": 49,
     "title": "Pour Decisions",
     "collection": "moments",
-    "src": "images/49.png",
-    "thumb": "images/thumbs/49.jpg",
+    "src": "images/49.webp",
+    "thumb": "images/thumbs/49.webp",
     "palette": [
-      "#379cba",
-      "#e6741b",
-      "#e98955",
-      "#b57947"
+      "#3493cd",
+      "#e5741a",
+      "#e98b5d",
+      "#e6bc8e"
     ],
     "w": 1024,
     "h": 1024
@@ -780,13 +778,13 @@ window.GALLERY = [
     "n": 50,
     "title": "Starboy",
     "collection": "characters",
-    "src": "images/50.png",
-    "thumb": "images/thumbs/50.jpg",
+    "src": "images/50.webp",
+    "thumb": "images/thumbs/50.webp",
     "palette": [
-      "#e79876",
-      "#46858c",
-      "#fbcf1c",
-      "#dbdbb5"
+      "#e69574",
+      "#4b8287",
+      "#fbd432",
+      "#caccaa"
     ],
     "w": 1024,
     "h": 1024
@@ -796,12 +794,12 @@ window.GALLERY = [
     "n": 51,
     "title": "Borrowed Boat",
     "collection": "moments",
-    "src": "images/51.png",
-    "thumb": "images/thumbs/51.jpg",
+    "src": "images/51.webp",
+    "thumb": "images/thumbs/51.webp",
     "palette": [
-      "#83895c",
-      "#e6dac0",
-      "#93b28d"
+      "#84885c",
+      "#e3dbc4",
+      "#90b189"
     ],
     "w": 1024,
     "h": 1024
@@ -811,13 +809,13 @@ window.GALLERY = [
     "n": 52,
     "title": "Melting Point",
     "collection": "creatures",
-    "src": "images/52.png",
-    "thumb": "images/thumbs/52.jpg",
+    "src": "images/52.webp",
+    "thumb": "images/thumbs/52.webp",
     "palette": [
-      "#000000",
-      "#6496c4",
-      "#fbc52f",
-      "#f79ab7"
+      "#5d94c1",
+      "#162029",
+      "#fac73a",
+      "#f89ab7"
     ],
     "w": 1024,
     "h": 1024
@@ -827,13 +825,12 @@ window.GALLERY = [
     "n": 53,
     "title": "Rolling Solo",
     "collection": "characters",
-    "src": "images/53.png",
-    "thumb": "images/thumbs/53.jpg",
+    "src": "images/53.webp",
+    "thumb": "images/thumbs/53.webp",
     "palette": [
-      "#e7c79c",
-      "#b34235",
-      "#476096",
-      "#9b8a85"
+      "#e3cb9e",
+      "#936e6f",
+      "#f7eaaa"
     ],
     "w": 1408,
     "h": 768
@@ -843,13 +840,13 @@ window.GALLERY = [
     "n": 54,
     "title": "Night Watch",
     "collection": "moments",
-    "src": "images/54.png",
-    "thumb": "images/thumbs/54.jpg",
+    "src": "images/54.webp",
+    "thumb": "images/thumbs/54.webp",
     "palette": [
-      "#385891",
-      "#e64446",
-      "#273766",
-      "#f8e187"
+      "#3d5d95",
+      "#e74345",
+      "#2a3d6f",
+      "#fae38a"
     ],
     "w": 1024,
     "h": 1024
@@ -859,13 +856,13 @@ window.GALLERY = [
     "n": 55,
     "title": "Party Of One",
     "collection": "creatures",
-    "src": "images/55.png",
-    "thumb": "images/thumbs/55.jpg",
+    "src": "images/55.webp",
+    "thumb": "images/thumbs/55.webp",
     "palette": [
-      "#5fb77c",
-      "#479196",
-      "#b9a496",
-      "#bcd1bf"
+      "#60b77c",
+      "#4999a4",
+      "#bea398",
+      "#bccdbb"
     ],
     "w": 1024,
     "h": 1024
@@ -875,12 +872,13 @@ window.GALLERY = [
     "n": 56,
     "title": "Past Bedtime",
     "collection": "moments",
-    "src": "images/56.png",
-    "thumb": "images/thumbs/56.jpg",
+    "src": "images/56.webp",
+    "thumb": "images/thumbs/56.webp",
     "palette": [
-      "#107275",
-      "#f0c574",
-      "#998986"
+      "#107274",
+      "#f0cc76",
+      "#566c8b",
+      "#c09478"
     ],
     "w": 1024,
     "h": 1024
@@ -890,13 +888,13 @@ window.GALLERY = [
     "n": 57,
     "title": "Updraft",
     "collection": "creatures",
-    "src": "images/57.png",
-    "thumb": "images/thumbs/57.jpg",
+    "src": "images/57.webp",
+    "thumb": "images/thumbs/57.webp",
     "palette": [
-      "#466cb2",
-      "#f58b35",
-      "#fbd233",
-      "#86af95"
+      "#f38934",
+      "#496bb0",
+      "#fbd336",
+      "#7bae98"
     ],
     "w": 1024,
     "h": 1024
@@ -906,12 +904,12 @@ window.GALLERY = [
     "n": 58,
     "title": "Overwatered",
     "collection": "creatures",
-    "src": "images/58.png",
-    "thumb": "images/thumbs/58.jpg",
+    "src": "images/58.webp",
+    "thumb": "images/thumbs/58.webp",
     "palette": [
-      "#3c7d52",
-      "#4a9395",
-      "#93cfae"
+      "#457d53",
+      "#55968b",
+      "#89c5a6"
     ],
     "w": 1024,
     "h": 1024
@@ -921,12 +919,12 @@ window.GALLERY = [
     "n": 59,
     "title": "Deep Focus",
     "collection": "creatures",
-    "src": "images/59.png",
-    "thumb": "images/thumbs/59.jpg",
+    "src": "images/59.webp",
+    "thumb": "images/thumbs/59.webp",
     "palette": [
-      "#558c77",
-      "#9edbb2",
-      "#6eac97"
+      "#f7f8ef",
+      "#8ad0ae",
+      "#548c77"
     ],
     "w": 1024,
     "h": 1024
@@ -936,13 +934,13 @@ window.GALLERY = [
     "n": 60,
     "title": "School Run",
     "collection": "characters",
-    "src": "images/60.png",
-    "thumb": "images/thumbs/60.jpg",
+    "src": "images/60.webp",
+    "thumb": "images/thumbs/60.webp",
     "palette": [
-      "#485eb7",
-      "#f16027",
-      "#f5a476",
-      "#7d929a"
+      "#5a8d7e",
+      "#d99171",
+      "#213359",
+      "#f7ba9d"
     ],
     "w": 1024,
     "h": 1024
@@ -952,13 +950,13 @@ window.GALLERY = [
     "n": 61,
     "title": "Space Villain",
     "collection": "cosplay",
-    "src": "images/61.png",
-    "thumb": "images/thumbs/61.jpg",
+    "src": "images/61.webp",
+    "thumb": "images/thumbs/61.webp",
     "palette": [
-      "#060807",
-      "#a3a5a3",
-      "#8e837b",
-      "#d4d5d4"
+      "#cfd0cf",
+      "#060707",
+      "#8e827a",
+      "#5c5753"
     ],
     "w": 1408,
     "h": 768
@@ -968,13 +966,13 @@ window.GALLERY = [
     "n": 62,
     "title": "Arr, Felt",
     "collection": "cosplay",
-    "src": "images/62.png",
-    "thumb": "images/thumbs/62.jpg",
+    "src": "images/62.webp",
+    "thumb": "images/thumbs/62.webp",
     "palette": [
-      "#c4c2be",
-      "#613c31",
-      "#211c18",
-      "#6e6156"
+      "#c5c2bd",
+      "#706356",
+      "#4f3d32",
+      "#221d19"
     ],
     "w": 1408,
     "h": 768
@@ -984,13 +982,13 @@ window.GALLERY = [
     "n": 63,
     "title": "Felt Stranger",
     "collection": "cosplay",
-    "src": "images/63.png",
-    "thumb": "images/thumbs/63.jpg",
+    "src": "images/63.webp",
+    "thumb": "images/thumbs/63.webp",
     "palette": [
-      "#5e6770",
-      "#82868f",
-      "#744e3d",
-      "#c7b0a4"
+      "#68717a",
+      "#8a8d96",
+      "#764e3a",
+      "#987969"
     ],
     "w": 1408,
     "h": 768
@@ -1000,13 +998,13 @@ window.GALLERY = [
     "n": 64,
     "title": "Glizzy",
     "collection": "cosplay",
-    "src": "images/64.png",
-    "thumb": "images/thumbs/64.jpg",
+    "src": "images/64.webp",
+    "thumb": "images/thumbs/64.webp",
     "palette": [
-      "#807d79",
-      "#804f38",
-      "#412f26",
-      "#bec0c5"
+      "#bec1c6",
+      "#827f7b",
+      "#412f25",
+      "#825e48"
     ],
     "w": 1408,
     "h": 768
@@ -1016,13 +1014,13 @@ window.GALLERY = [
     "n": 65,
     "title": "Mermaid Off Duty",
     "collection": "cosplay",
-    "src": "images/65.png",
-    "thumb": "images/thumbs/65.jpg",
+    "src": "images/65.webp",
+    "thumb": "images/thumbs/65.webp",
     "palette": [
-      "#ced6da",
-      "#423e33",
-      "#6e9495",
-      "#897060"
+      "#9aa4a6",
+      "#ccd2d5",
+      "#433f34",
+      "#709596"
     ],
     "w": 1408,
     "h": 768
@@ -1032,13 +1030,12 @@ window.GALLERY = [
     "n": 66,
     "title": "Howdy",
     "collection": "cosplay",
-    "src": "images/66.png",
-    "thumb": "images/thumbs/66.jpg",
+    "src": "images/66.webp",
+    "thumb": "images/thumbs/66.webp",
     "palette": [
-      "#c9ced1",
-      "#9c7662",
-      "#503024",
-      "#9ca1a3"
+      "#b0b4b7",
+      "#9c7562",
+      "#503024"
     ],
     "w": 1408,
     "h": 768
@@ -1048,13 +1045,13 @@ window.GALLERY = [
     "n": 67,
     "title": "Busy Bee",
     "collection": "cosplay",
-    "src": "images/67.png",
-    "thumb": "images/thumbs/67.jpg",
+    "src": "images/67.webp",
+    "thumb": "images/thumbs/67.webp",
     "palette": [
-      "#664f3a",
-      "#1c1814",
-      "#cccccd",
-      "#ab7853"
+      "#b6b5b5",
+      "#654e3a",
+      "#d4d4d5",
+      "#1c1813"
     ],
     "w": 1408,
     "h": 768
@@ -1064,13 +1061,13 @@ window.GALLERY = [
     "n": 68,
     "title": "Sir Woollen",
     "collection": "cosplay",
-    "src": "images/68.png",
-    "thumb": "images/thumbs/68.jpg",
+    "src": "images/68.webp",
+    "thumb": "images/thumbs/68.webp",
     "palette": [
-      "#391618",
-      "#dadce1",
-      "#a7958c",
-      "#706867"
+      "#391619",
+      "#d8dbe0",
+      "#a6958c",
+      "#7a7575"
     ],
     "w": 1408,
     "h": 768
@@ -1080,13 +1077,13 @@ window.GALLERY = [
     "n": 69,
     "title": "Fangs A Lot",
     "collection": "cosplay",
-    "src": "images/69.png",
-    "thumb": "images/thumbs/69.jpg",
+    "src": "images/69.webp",
+    "thumb": "images/thumbs/69.webp",
     "palette": [
-      "#aeaeb3",
-      "#746960",
-      "#9b8e83",
-      "#472e2a"
+      "#756a61",
+      "#c6c5c9",
+      "#a8a9ad",
+      "#9c9085"
     ],
     "w": 1408,
     "h": 768
@@ -1096,13 +1093,13 @@ window.GALLERY = [
     "n": 70,
     "title": "Tourist Trap",
     "collection": "cosplay",
-    "src": "images/70.png",
-    "thumb": "images/thumbs/70.jpg",
+    "src": "images/70.webp",
+    "thumb": "images/thumbs/70.webp",
     "palette": [
-      "#949fa6",
-      "#dae0e5",
-      "#292523",
-      "#7c8082"
+      "#939ea4",
+      "#b3bbc1",
+      "#282523",
+      "#d0d9e0"
     ],
     "w": 1408,
     "h": 768
@@ -1112,13 +1109,13 @@ window.GALLERY = [
     "n": 71,
     "title": "Late Again",
     "collection": "swap",
-    "src": "images/71.png",
-    "thumb": "images/thumbs/71.jpg",
+    "src": "images/71.webp",
+    "thumb": "images/thumbs/71.webp",
     "palette": [
-      "#1f1512",
-      "#bac2d2",
-      "#463d3b",
-      "#817d7d"
+      "#1f1613",
+      "#463d3c",
+      "#d9f6f2",
+      "#c6c3ce"
     ],
     "w": 1024,
     "h": 1024
@@ -1128,13 +1125,13 @@ window.GALLERY = [
     "n": 72,
     "title": "Duck Duty",
     "collection": "swap",
-    "src": "images/72.png",
-    "thumb": "images/thumbs/72.jpg",
+    "src": "images/72.webp",
+    "thumb": "images/thumbs/72.webp",
     "palette": [
-      "#9194a2",
-      "#371b10",
-      "#fedab4",
-      "#706f75"
+      "#8f96a8",
+      "#371b11",
+      "#717076",
+      "#fddbb7"
     ],
     "w": 1024,
     "h": 1024
@@ -1144,13 +1141,13 @@ window.GALLERY = [
     "n": 73,
     "title": "Undercover",
     "collection": "swap",
-    "src": "images/73.png",
-    "thumb": "images/thumbs/73.jpg",
+    "src": "images/73.webp",
+    "thumb": "images/thumbs/73.webp",
     "palette": [
-      "#d8c2c8",
-      "#27303e",
-      "#3d1b0a",
-      "#f2f0dc"
+      "#c6c6d7",
+      "#27303d",
+      "#3d1b0b",
+      "#fcc69c"
     ],
     "w": 1024,
     "h": 1024
@@ -1160,13 +1157,13 @@ window.GALLERY = [
     "n": 74,
     "title": "Ramen Emergency",
     "collection": "swap",
-    "src": "images/74.png",
-    "thumb": "images/thumbs/74.jpg",
+    "src": "images/74.webp",
+    "thumb": "images/thumbs/74.webp",
     "palette": [
-      "#22110e",
-      "#612d13",
-      "#96abcd",
-      "#fbd4b6"
+      "#97aed1",
+      "#3d2011",
+      "#fbd5b8",
+      "#787980"
     ],
     "w": 1024,
     "h": 1024
@@ -1176,13 +1173,13 @@ window.GALLERY = [
     "n": 75,
     "title": "Gingerbread Custody",
     "collection": "swap",
-    "src": "images/75.png",
-    "thumb": "images/thumbs/75.jpg",
+    "src": "images/75.webp",
+    "thumb": "images/thumbs/75.webp",
     "palette": [
-      "#fdd9b9",
-      "#ccd3d7",
-      "#21120e",
-      "#7c7980"
+      "#55290d",
+      "#cdd4d7",
+      "#21120f",
+      "#9abaec"
     ],
     "w": 1024,
     "h": 1024
@@ -1192,13 +1189,13 @@ window.GALLERY = [
     "n": 76,
     "title": "Deadline Nap",
     "collection": "swap",
-    "src": "images/76.png",
-    "thumb": "images/thumbs/76.jpg",
+    "src": "images/76.webp",
+    "thumb": "images/thumbs/76.webp",
     "palette": [
-      "#d5d7da",
-      "#673612",
-      "#bf997f",
-      "#fdd3af"
+      "#48240d",
+      "#f3ebe0",
+      "#928e8d",
+      "#65615e"
     ],
     "w": 1024,
     "h": 1024
@@ -1208,13 +1205,13 @@ window.GALLERY = [
     "n": 77,
     "title": "No Wrong Notes",
     "collection": "swap",
-    "src": "images/77.png",
-    "thumb": "images/thumbs/77.jpg",
+    "src": "images/77.webp",
+    "thumb": "images/thumbs/77.webp",
     "palette": [
-      "#49240b",
-      "#bfb4d9",
-      "#1c1410",
-      "#8b8a87"
+      "#49240d",
+      "#bfb3d9",
+      "#fcd7bf",
+      "#1d1410"
     ],
     "w": 1024,
     "h": 1024
@@ -1224,13 +1221,13 @@ window.GALLERY = [
     "n": 78,
     "title": "Tiny Patrol",
     "collection": "swap",
-    "src": "images/78.png",
-    "thumb": "images/thumbs/78.jpg",
+    "src": "images/78.webp",
+    "thumb": "images/thumbs/78.webp",
     "palette": [
-      "#56260c",
-      "#dccabe",
-      "#fac498",
-      "#220f09"
+      "#f8c194",
+      "#ddcabe",
+      "#692d08",
+      "#381b0f"
     ],
     "w": 1024,
     "h": 1024
@@ -1240,13 +1237,13 @@ window.GALLERY = [
     "n": 79,
     "title": "Cat Rescue",
     "collection": "swap",
-    "src": "images/79.png",
-    "thumb": "images/thumbs/79.jpg",
+    "src": "images/79.webp",
+    "thumb": "images/thumbs/79.webp",
     "palette": [
-      "#abb7b6",
-      "#80694f",
-      "#49382a",
-      "#f3fbfc"
+      "#d1babd",
+      "#4a382b",
+      "#f3fbfc",
+      "#7f684f"
     ],
     "w": 1024,
     "h": 1024
@@ -1256,13 +1253,13 @@ window.GALLERY = [
     "n": 80,
     "title": "Pigeon Problems",
     "collection": "swap",
-    "src": "images/80.png",
-    "thumb": "images/thumbs/80.jpg",
+    "src": "images/80.webp",
+    "thumb": "images/thumbs/80.webp",
     "palette": [
-      "#668287",
+      "#658286",
+      "#362015",
       "#e8e2e0",
-      "#4c240c",
-      "#86ccce"
+      "#87cdce"
     ],
     "w": 1024,
     "h": 1024
@@ -1272,13 +1269,13 @@ window.GALLERY = [
     "n": 81,
     "title": "Cat In A Box",
     "collection": "redraw",
-    "src": "images/81.png",
-    "thumb": "images/thumbs/81.jpg",
+    "src": "images/81.webp",
+    "thumb": "images/thumbs/81.webp",
     "palette": [
       "#b8aea3",
+      "#eae5da",
       "#8a857f",
-      "#422815",
-      "#ede7db"
+      "#432815"
     ],
     "w": 1408,
     "h": 768
@@ -1288,13 +1285,13 @@ window.GALLERY = [
     "n": 82,
     "title": "Tall Order",
     "collection": "redraw",
-    "src": "images/82.png",
-    "thumb": "images/thumbs/82.jpg",
+    "src": "images/82.webp",
+    "thumb": "images/thumbs/82.webp",
     "palette": [
-      "#f5f1e6",
-      "#70623f",
-      "#4a3a20",
-      "#bad8ef"
+      "#caad63",
+      "#f4f1e6",
+      "#716340",
+      "#bbd9ee"
     ],
     "w": 1376,
     "h": 768
@@ -1304,13 +1301,13 @@ window.GALLERY = [
     "n": 83,
     "title": "Bench Bird",
     "collection": "redraw",
-    "src": "images/83.png",
-    "thumb": "images/thumbs/83.jpg",
+    "src": "images/83.webp",
+    "thumb": "images/thumbs/83.webp",
     "palette": [
-      "#1d1e13",
-      "#a8a6a4",
-      "#ccc7b9",
-      "#565f48"
+      "#e4dfd1",
+      "#333728",
+      "#aeaba8",
+      "#565f47"
     ],
     "w": 1408,
     "h": 768
@@ -1320,12 +1317,13 @@ window.GALLERY = [
     "n": 84,
     "title": "Bath Time",
     "collection": "redraw",
-    "src": "images/84.png",
-    "thumb": "images/thumbs/84.jpg",
+    "src": "images/84.webp",
+    "thumb": "images/thumbs/84.webp",
     "palette": [
+      "#998573",
+      "#bbb3ac",
       "#674c3c",
-      "#d2cac0",
-      "#a39487"
+      "#d2d3cf"
     ],
     "w": 1376,
     "h": 768
@@ -1335,13 +1333,13 @@ window.GALLERY = [
     "n": 85,
     "title": "Noodle Anatomy",
     "collection": "redraw",
-    "src": "images/85.png",
-    "thumb": "images/thumbs/85.jpg",
+    "src": "images/85.webp",
+    "thumb": "images/thumbs/85.webp",
     "palette": [
-      "#f3f0e5",
-      "#cac2bf",
-      "#a5805d",
-      "#4c2b12"
+      "#a07751",
+      "#c7c4c8",
+      "#f2f0e5",
+      "#73543a"
     ],
     "w": 1376,
     "h": 768
@@ -1351,13 +1349,13 @@ window.GALLERY = [
     "n": 87,
     "title": "Shell Game",
     "collection": "redraw",
-    "src": "images/87.png",
-    "thumb": "images/thumbs/87.jpg",
+    "src": "images/87.webp",
+    "thumb": "images/thumbs/87.webp",
     "palette": [
-      "#42554a",
-      "#06a6c3",
-      "#29362f",
-      "#73cede"
+      "#06a6c2",
+      "#56574c",
+      "#6ec4ce",
+      "#29362f"
     ],
     "w": 1376,
     "h": 768
@@ -1367,13 +1365,13 @@ window.GALLERY = [
     "n": 88,
     "title": "Grocery Run",
     "collection": "redraw",
-    "src": "images/88.png",
-    "thumb": "images/thumbs/88.jpg",
+    "src": "images/88.webp",
+    "thumb": "images/thumbs/88.webp",
     "palette": [
-      "#a0a0a3",
+      "#514f4f",
       "#252d2e",
-      "#464945",
-      "#6d737c"
+      "#a0a0a2",
+      "#6d737a"
     ],
     "w": 1376,
     "h": 768
@@ -1383,13 +1381,13 @@ window.GALLERY = [
     "n": 89,
     "title": "Morning Call",
     "collection": "redraw",
-    "src": "images/89.png",
-    "thumb": "images/thumbs/89.jpg",
+    "src": "images/89.webp",
+    "thumb": "images/thumbs/89.webp",
     "palette": [
-      "#150f0b",
-      "#5e2f1c",
-      "#775838",
-      "#fdf8ee"
+      "#e9e5da",
+      "#2d2a22",
+      "#5e301d",
+      "#775a3b"
     ],
     "w": 1024,
     "h": 1024
@@ -1399,13 +1397,13 @@ window.GALLERY = [
     "n": 90,
     "title": "Tree Pose, Redrawn",
     "collection": "redraw",
-    "src": "images/90.png",
-    "thumb": "images/thumbs/90.jpg",
+    "src": "images/90.webp",
+    "thumb": "images/thumbs/90.webp",
     "palette": [
-      "#c5c0b5",
-      "#f1eee5",
-      "#2e2830",
-      "#b99472"
+      "#755647",
+      "#2f2930",
+      "#b9ab9c",
+      "#b07e58"
     ],
     "w": 1376,
     "h": 768
@@ -1415,12 +1413,12 @@ window.GALLERY = [
     "n": 91,
     "title": "Pear Balloon",
     "collection": "objects",
-    "src": "images/91.png",
-    "thumb": "images/thumbs/91.jpg",
+    "src": "images/91.webp",
+    "thumb": "images/thumbs/91.webp",
     "palette": [
-      "#e2ddcd",
-      "#c3ac72",
-      "#f6f6f6"
+      "#e3dfd3",
+      "#c4af76",
+      "#f3f3f3"
     ],
     "w": 1408,
     "h": 768
@@ -1430,12 +1428,12 @@ window.GALLERY = [
     "n": 92,
     "title": "Egg Man",
     "collection": "objects",
-    "src": "images/92.png",
-    "thumb": "images/thumbs/92.jpg",
+    "src": "images/92.webp",
+    "thumb": "images/thumbs/92.webp",
     "palette": [
-      "#ad8366",
-      "#ddd6cf",
-      "#f7f9f8"
+      "#ae8669",
+      "#ded8d3",
+      "#f2f2f2"
     ],
     "w": 1408,
     "h": 768
@@ -1445,11 +1443,11 @@ window.GALLERY = [
     "n": 93,
     "title": "Match Rocket",
     "collection": "objects",
-    "src": "images/93.png",
-    "thumb": "images/thumbs/93.jpg",
+    "src": "images/93.webp",
+    "thumb": "images/thumbs/93.webp",
     "palette": [
-      "#dacfbe",
-      "#f3f3f3"
+      "#dfd7cb",
+      "#f0f0f0"
     ],
     "w": 1408,
     "h": 768
@@ -1459,12 +1457,12 @@ window.GALLERY = [
     "n": 94,
     "title": "Leaf Sail",
     "collection": "objects",
-    "src": "images/94.png",
-    "thumb": "images/thumbs/94.jpg",
+    "src": "images/94.webp",
+    "thumb": "images/thumbs/94.webp",
     "palette": [
-      "#a4ac77",
-      "#f5f5f5",
-      "#e7e6e7"
+      "#aab181",
+      "#f6f6f6",
+      "#e8e7e8"
     ],
     "w": 1408,
     "h": 768
@@ -1474,12 +1472,12 @@ window.GALLERY = [
     "n": 95,
     "title": "Lemon Sunrise",
     "collection": "objects",
-    "src": "images/95.png",
-    "thumb": "images/thumbs/95.jpg",
+    "src": "images/95.webp",
+    "thumb": "images/thumbs/95.webp",
     "palette": [
-      "#c4a453",
-      "#e5ddbf",
-      "#e8eaed"
+      "#c9ad61",
+      "#e6e2cd",
+      "#eaecef"
     ],
     "w": 1408,
     "h": 768
@@ -1489,12 +1487,12 @@ window.GALLERY = [
     "n": 96,
     "title": "Walnut Mind",
     "collection": "objects",
-    "src": "images/96.png",
-    "thumb": "images/thumbs/96.jpg",
+    "src": "images/96.webp",
+    "thumb": "images/thumbs/96.webp",
     "palette": [
-      "#d4d1cc",
-      "#987b62",
-      "#f4f4f4"
+      "#d3d0cb",
+      "#987b61",
+      "#f2f2f2"
     ],
     "w": 1408,
     "h": 768
@@ -1504,12 +1502,12 @@ window.GALLERY = [
     "n": 97,
     "title": "Strawberry Pulse",
     "collection": "objects",
-    "src": "images/97.png",
-    "thumb": "images/thumbs/97.jpg",
+    "src": "images/97.webp",
+    "thumb": "images/thumbs/97.webp",
     "palette": [
-      "#aa6856",
-      "#e8e8e8",
-      "#f5f5f5"
+      "#e3dfd7",
+      "#a96754",
+      "#f6f6f6"
     ],
     "w": 1408,
     "h": 768
@@ -1519,10 +1517,10 @@ window.GALLERY = [
     "n": 98,
     "title": "Clip Cast",
     "collection": "objects",
-    "src": "images/98.png",
-    "thumb": "images/thumbs/98.jpg",
+    "src": "images/98.webp",
+    "thumb": "images/thumbs/98.webp",
     "palette": [
-      "#d0cecb",
+      "#dcdbd8",
       "#f6f6f6"
     ],
     "w": 1408,
@@ -1533,11 +1531,11 @@ window.GALLERY = [
     "n": 99,
     "title": "Tomato Beetle",
     "collection": "objects",
-    "src": "images/99.png",
-    "thumb": "images/thumbs/99.jpg",
+    "src": "images/99.webp",
+    "thumb": "images/thumbs/99.webp",
     "palette": [
-      "#d5bab2",
-      "#f5f5f5"
+      "#d4b8ae",
+      "#f6f6f6"
     ],
     "w": 1408,
     "h": 768
@@ -1547,12 +1545,12 @@ window.GALLERY = [
     "n": 100,
     "title": "Bread Bed",
     "collection": "objects",
-    "src": "images/100.png",
-    "thumb": "images/thumbs/100.jpg",
+    "src": "images/100.webp",
+    "thumb": "images/thumbs/100.webp",
     "palette": [
-      "#f5f6f5",
-      "#c6af91",
-      "#dedfe0"
+      "#f4f5f4",
+      "#c7b194",
+      "#dfe0e1"
     ],
     "w": 1408,
     "h": 768
@@ -1562,12 +1560,12 @@ window.GALLERY = [
     "n": 101,
     "title": "Garlic Hive",
     "collection": "objects",
-    "src": "images/101.png",
-    "thumb": "images/thumbs/101.jpg",
+    "src": "images/101.webp",
+    "thumb": "images/thumbs/101.webp",
     "palette": [
-      "#beb09d",
-      "#ececec",
-      "#f8f8f8"
+      "#baac97",
+      "#f0f1f1",
+      "#e5e3dd"
     ],
     "w": 1408,
     "h": 768
@@ -1577,12 +1575,12 @@ window.GALLERY = [
     "n": 102,
     "title": "Broccoli Tree",
     "collection": "objects",
-    "src": "images/102.png",
-    "thumb": "images/thumbs/102.jpg",
+    "src": "images/102.webp",
+    "thumb": "images/thumbs/102.webp",
     "palette": [
-      "#617638",
-      "#d6d6c9",
-      "#f1f1f1"
+      "#607538",
+      "#d5d5c7",
+      "#f7f7f7"
     ],
     "w": 1408,
     "h": 768
@@ -1592,10 +1590,10 @@ window.GALLERY = [
     "n": 103,
     "title": "Bean Bench",
     "collection": "objects",
-    "src": "images/103.png",
-    "thumb": "images/thumbs/103.jpg",
+    "src": "images/103.webp",
+    "thumb": "images/thumbs/103.webp",
     "palette": [
-      "#bfb9b2",
+      "#bab5ad",
       "#f7f7f7"
     ],
     "w": 1408,
@@ -1606,10 +1604,10 @@ window.GALLERY = [
     "n": 104,
     "title": "Button Submarine",
     "collection": "objects",
-    "src": "images/104.png",
-    "thumb": "images/thumbs/104.jpg",
+    "src": "images/104.webp",
+    "thumb": "images/thumbs/104.webp",
     "palette": [
-      "#a1afbc",
+      "#b5c0ca",
       "#f8f8f8"
     ],
     "w": 1408,
@@ -1620,11 +1618,11 @@ window.GALLERY = [
     "n": 105,
     "title": "Feather Arrow",
     "collection": "objects",
-    "src": "images/105.png",
-    "thumb": "images/thumbs/105.jpg",
+    "src": "images/105.webp",
+    "thumb": "images/thumbs/105.webp",
     "palette": [
-      "#d9d3c8",
-      "#ececec"
+      "#d9d5ca",
+      "#ebebeb"
     ],
     "w": 1408,
     "h": 768
@@ -1634,12 +1632,12 @@ window.GALLERY = [
     "n": 106,
     "title": "Shell Hat",
     "collection": "objects",
-    "src": "images/106.png",
-    "thumb": "images/thumbs/106.jpg",
+    "src": "images/106.webp",
+    "thumb": "images/thumbs/106.webp",
     "palette": [
-      "#e2e2df",
-      "#cbbca9",
-      "#f5f5f5"
+      "#c8b7a3",
+      "#f1f1f1",
+      "#e1e0dd"
     ],
     "w": 1408,
     "h": 768
@@ -1649,12 +1647,12 @@ window.GALLERY = [
     "n": 107,
     "title": "Banana Canoe",
     "collection": "objects",
-    "src": "images/107.png",
-    "thumb": "images/thumbs/107.jpg",
+    "src": "images/107.webp",
+    "thumb": "images/thumbs/107.webp",
     "palette": [
-      "#af9255",
-      "#e2d3aa",
-      "#e4e5e6"
+      "#b29557",
+      "#e2d6b3",
+      "#e4e4e6"
     ],
     "w": 1408,
     "h": 768
@@ -1664,10 +1662,10 @@ window.GALLERY = [
     "n": 108,
     "title": "Key Bot",
     "collection": "objects",
-    "src": "images/108.png",
-    "thumb": "images/thumbs/108.jpg",
+    "src": "images/108.webp",
+    "thumb": "images/thumbs/108.webp",
     "palette": [
-      "#b0a99e",
+      "#c1bcb4",
       "#f9f9f9"
     ],
     "w": 1408,
@@ -1678,11 +1676,11 @@ window.GALLERY = [
     "n": 109,
     "title": "Coin Moon",
     "collection": "objects",
-    "src": "images/109.png",
-    "thumb": "images/thumbs/109.jpg",
+    "src": "images/109.webp",
+    "thumb": "images/thumbs/109.webp",
     "palette": [
-      "#8b7a68",
-      "#cececc",
+      "#938575",
+      "#dddddc",
       "#f6f6f6"
     ],
     "w": 1408,
@@ -1693,12 +1691,12 @@ window.GALLERY = [
     "n": 110,
     "title": "Chilli Dance",
     "collection": "objects",
-    "src": "images/110.png",
-    "thumb": "images/thumbs/110.jpg",
+    "src": "images/110.webp",
+    "thumb": "images/thumbs/110.webp",
     "palette": [
-      "#c38875",
-      "#f3f3f3",
-      "#e4e4e2"
+      "#c18572",
+      "#f0f0f0",
+      "#e4e4e1"
     ],
     "w": 1408,
     "h": 768
