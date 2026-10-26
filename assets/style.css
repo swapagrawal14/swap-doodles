@@ -298,6 +298,7 @@ a { color: inherit; }
 .chip--shuffle { background: var(--mint); }
 .chip[data-filter="cosplay"].is-active { background: var(--coral); color: var(--ink); }
 .chip[data-filter="swap"].is-active { background: var(--yellow); color: var(--ink); }
+.chip[data-filter="redraw"].is-active { background: var(--sky); color: var(--ink); }
 
 .grid {
   display: grid;

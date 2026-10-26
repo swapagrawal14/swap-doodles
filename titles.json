@@ -318,5 +318,41 @@
   "80": {
     "title": "Pigeon Problems",
     "collection": "swap"
+  },
+  "81": {
+    "title": "Cat In A Box",
+    "collection": "redraw"
+  },
+  "82": {
+    "title": "Tall Order",
+    "collection": "redraw"
+  },
+  "83": {
+    "title": "Bench Bird",
+    "collection": "redraw"
+  },
+  "84": {
+    "title": "Bath Time",
+    "collection": "redraw"
+  },
+  "85": {
+    "title": "Noodle Anatomy",
+    "collection": "redraw"
+  },
+  "87": {
+    "title": "Shell Game",
+    "collection": "redraw"
+  },
+  "88": {
+    "title": "Grocery Run",
+    "collection": "redraw"
+  },
+  "89": {
+    "title": "Morning Call",
+    "collection": "redraw"
+  },
+  "90": {
+    "title": "Tree Pose, Redrawn",
+    "collection": "redraw"
   }
 }

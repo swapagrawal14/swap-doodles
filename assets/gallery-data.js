@@ -1266,5 +1266,148 @@ window.GALLERY = [
     ],
     "w": 1024,
     "h": 1024
+  },
+  {
+    "id": "81",
+    "n": 81,
+    "title": "Cat In A Box",
+    "collection": "redraw",
+    "src": "images/81.png",
+    "thumb": "images/thumbs/81.jpg",
+    "palette": [
+      "#b8aea3",
+      "#8a857f",
+      "#422815",
+      "#ede7db"
+    ],
+    "w": 1408,
+    "h": 768
+  },
+  {
+    "id": "82",
+    "n": 82,
+    "title": "Tall Order",
+    "collection": "redraw",
+    "src": "images/82.png",
+    "thumb": "images/thumbs/82.jpg",
+    "palette": [
+      "#f5f1e6",
+      "#70623f",
+      "#4a3a20",
+      "#bad8ef"
+    ],
+    "w": 1376,
+    "h": 768
+  },
+  {
+    "id": "83",
+    "n": 83,
+    "title": "Bench Bird",
+    "collection": "redraw",
+    "src": "images/83.png",
+    "thumb": "images/thumbs/83.jpg",
+    "palette": [
+      "#1d1e13",
+      "#a8a6a4",
+      "#ccc7b9",
+      "#565f48"
+    ],
+    "w": 1408,
+    "h": 768
+  },
+  {
+    "id": "84",
+    "n": 84,
+    "title": "Bath Time",
+    "collection": "redraw",
+    "src": "images/84.png",
+    "thumb": "images/thumbs/84.jpg",
+    "palette": [
+      "#674c3c",
+      "#d2cac0",
+      "#a39487"
+    ],
+    "w": 1376,
+    "h": 768
+  },
+  {
+    "id": "85",
+    "n": 85,
+    "title": "Noodle Anatomy",
+    "collection": "redraw",
+    "src": "images/85.png",
+    "thumb": "images/thumbs/85.jpg",
+    "palette": [
+      "#f3f0e5",
+      "#cac2bf",
+      "#a5805d",
+      "#4c2b12"
+    ],
+    "w": 1376,
+    "h": 768
+  },
+  {
+    "id": "87",
+    "n": 87,
+    "title": "Shell Game",
+    "collection": "redraw",
+    "src": "images/87.png",
+    "thumb": "images/thumbs/87.jpg",
+    "palette": [
+      "#42554a",
+      "#06a6c3",
+      "#29362f",
+      "#73cede"
+    ],
+    "w": 1376,
+    "h": 768
+  },
+  {
+    "id": "88",
+    "n": 88,
+    "title": "Grocery Run",
+    "collection": "redraw",
+    "src": "images/88.png",
+    "thumb": "images/thumbs/88.jpg",
+    "palette": [
+      "#a0a0a3",
+      "#252d2e",
+      "#464945",
+      "#6d737c"
+    ],
+    "w": 1376,
+    "h": 768
+  },
+  {
+    "id": "89",
+    "n": 89,
+    "title": "Morning Call",
+    "collection": "redraw",
+    "src": "images/89.png",
+    "thumb": "images/thumbs/89.jpg",
+    "palette": [
+      "#150f0b",
+      "#5e2f1c",
+      "#775838",
+      "#fdf8ee"
+    ],
+    "w": 1024,
+    "h": 1024
+  },
+  {
+    "id": "90",
+    "n": 90,
+    "title": "Tree Pose, Redrawn",
+    "collection": "redraw",
+    "src": "images/90.png",
+    "thumb": "images/thumbs/90.jpg",
+    "palette": [
+      "#c5c0b5",
+      "#f1eee5",
+      "#2e2830",
+      "#b99472"
+    ],
+    "w": 1376,
+    "h": 768
   }
 ];
