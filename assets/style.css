@@ -297,6 +297,7 @@ a { color: inherit; }
 .chip.is-active { background: var(--ink); color: var(--cream); }
 .chip--shuffle { background: var(--mint); }
 .chip[data-filter="cosplay"].is-active { background: var(--coral); color: var(--ink); }
+.chip[data-filter="swap"].is-active { background: var(--yellow); color: var(--ink); }
 
 .grid {
   display: grid;

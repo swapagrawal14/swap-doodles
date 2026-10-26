@@ -1106,5 +1106,165 @@ window.GALLERY = [
     ],
     "w": 1408,
     "h": 768
+  },
+  {
+    "id": "71",
+    "n": 71,
+    "title": "Late Again",
+    "collection": "swap",
+    "src": "images/71.png",
+    "thumb": "images/thumbs/71.jpg",
+    "palette": [
+      "#1f1512",
+      "#bac2d2",
+      "#463d3b",
+      "#817d7d"
+    ],
+    "w": 1024,
+    "h": 1024
+  },
+  {
+    "id": "72",
+    "n": 72,
+    "title": "Duck Duty",
+    "collection": "swap",
+    "src": "images/72.png",
+    "thumb": "images/thumbs/72.jpg",
+    "palette": [
+      "#9194a2",
+      "#371b10",
+      "#fedab4",
+      "#706f75"
+    ],
+    "w": 1024,
+    "h": 1024
+  },
+  {
+    "id": "73",
+    "n": 73,
+    "title": "Undercover",
+    "collection": "swap",
+    "src": "images/73.png",
+    "thumb": "images/thumbs/73.jpg",
+    "palette": [
+      "#d8c2c8",
+      "#27303e",
+      "#3d1b0a",
+      "#f2f0dc"
+    ],
+    "w": 1024,
+    "h": 1024
+  },
+  {
+    "id": "74",
+    "n": 74,
+    "title": "Ramen Emergency",
+    "collection": "swap",
+    "src": "images/74.png",
+    "thumb": "images/thumbs/74.jpg",
+    "palette": [
+      "#22110e",
+      "#612d13",
+      "#96abcd",
+      "#fbd4b6"
+    ],
+    "w": 1024,
+    "h": 1024
+  },
+  {
+    "id": "75",
+    "n": 75,
+    "title": "Gingerbread Custody",
+    "collection": "swap",
+    "src": "images/75.png",
+    "thumb": "images/thumbs/75.jpg",
+    "palette": [
+      "#fdd9b9",
+      "#ccd3d7",
+      "#21120e",
+      "#7c7980"
+    ],
+    "w": 1024,
+    "h": 1024
+  },
+  {
+    "id": "76",
+    "n": 76,
+    "title": "Deadline Nap",
+    "collection": "swap",
+    "src": "images/76.png",
+    "thumb": "images/thumbs/76.jpg",
+    "palette": [
+      "#d5d7da",
+      "#673612",
+      "#bf997f",
+      "#fdd3af"
+    ],
+    "w": 1024,
+    "h": 1024
+  },
+  {
+    "id": "77",
+    "n": 77,
+    "title": "No Wrong Notes",
+    "collection": "swap",
+    "src": "images/77.png",
+    "thumb": "images/thumbs/77.jpg",
+    "palette": [
+      "#49240b",
+      "#bfb4d9",
+      "#1c1410",
+      "#8b8a87"
+    ],
+    "w": 1024,
+    "h": 1024
+  },
+  {
+    "id": "78",
+    "n": 78,
+    "title": "Tiny Patrol",
+    "collection": "swap",
+    "src": "images/78.png",
+    "thumb": "images/thumbs/78.jpg",
+    "palette": [
+      "#56260c",
+      "#dccabe",
+      "#fac498",
+      "#220f09"
+    ],
+    "w": 1024,
+    "h": 1024
+  },
+  {
+    "id": "79",
+    "n": 79,
+    "title": "Cat Rescue",
+    "collection": "swap",
+    "src": "images/79.png",
+    "thumb": "images/thumbs/79.jpg",
+    "palette": [
+      "#abb7b6",
+      "#80694f",
+      "#49382a",
+      "#f3fbfc"
+    ],
+    "w": 1024,
+    "h": 1024
+  },
+  {
+    "id": "80",
+    "n": 80,
+    "title": "Pigeon Problems",
+    "collection": "swap",
+    "src": "images/80.png",
+    "thumb": "images/thumbs/80.jpg",
+    "palette": [
+      "#668287",
+      "#e8e2e0",
+      "#4c240c",
+      "#86ccce"
+    ],
+    "w": 1024,
+    "h": 1024
   }
 ];

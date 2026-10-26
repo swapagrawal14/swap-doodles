@@ -278,5 +278,45 @@
   "70": {
     "title": "Tourist Trap",
     "collection": "cosplay"
+  },
+  "71": {
+    "title": "Late Again",
+    "collection": "swap"
+  },
+  "72": {
+    "title": "Duck Duty",
+    "collection": "swap"
+  },
+  "73": {
+    "title": "Undercover",
+    "collection": "swap"
+  },
+  "74": {
+    "title": "Ramen Emergency",
+    "collection": "swap"
+  },
+  "75": {
+    "title": "Gingerbread Custody",
+    "collection": "swap"
+  },
+  "76": {
+    "title": "Deadline Nap",
+    "collection": "swap"
+  },
+  "77": {
+    "title": "No Wrong Notes",
+    "collection": "swap"
+  },
+  "78": {
+    "title": "Tiny Patrol",
+    "collection": "swap"
+  },
+  "79": {
+    "title": "Cat Rescue",
+    "collection": "swap"
+  },
+  "80": {
+    "title": "Pigeon Problems",
+    "collection": "swap"
   }
 }
