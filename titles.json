@@ -43,9 +43,49 @@
     "title": "Bread Bed",
     "collection": "objects"
   },
+  "101": {
+    "title": "Garlic Hive",
+    "collection": "objects"
+  },
+  "102": {
+    "title": "Broccoli Tree",
+    "collection": "objects"
+  },
+  "103": {
+    "title": "Bean Bench",
+    "collection": "objects"
+  },
+  "104": {
+    "title": "Button Submarine",
+    "collection": "objects"
+  },
+  "105": {
+    "title": "Feather Arrow",
+    "collection": "objects"
+  },
+  "106": {
+    "title": "Shell Hat",
+    "collection": "objects"
+  },
+  "107": {
+    "title": "Banana Canoe",
+    "collection": "objects"
+  },
+  "108": {
+    "title": "Key Bot",
+    "collection": "objects"
+  },
+  "109": {
+    "title": "Coin Moon",
+    "collection": "objects"
+  },
   "11": {
     "title": "Morning Haunt",
     "collection": "creatures"
+  },
+  "110": {
+    "title": "Chilli Dance",
+    "collection": "objects"
   },
   "12": {
     "title": "Cloud Break",
